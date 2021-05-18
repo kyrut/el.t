@@ -1,0 +1,387 @@
+.banner-address-left{
+    margin: 0em 0 0 0;
+    background: rgba(0, 0, 0, 0.81);
+    padding: 1em 0;
+}
+.banner-address-left p, .banner-address-left a{
+    color: #fff;
+    text-decoration: none;
+    padding-right: 10px;
+    margin: 0;
+}
+.banner-address-left a:hover{
+    text-decoration: none;
+    color: #f8f8f2;
+}
+.tm-navbar-container{
+    background: #757575;
+}
+.uk-navbar-nav > li > a {
+    color: #fff;
+    text-transform: uppercase;
+    transition: 0.1s ease-in-out;
+    transition-property: all;
+    transition-property: color, background-color;
+}
+.uk-logo, .uk-navbar-toggle, .uk-navbar-nav > li.uk-active > a {
+    color: #fff;
+}
+.uk-logo:hover, .uk-logo:focus {
+    color: #fff;
+    outline: none;
+    text-decoration: none;
+}
+.uk-navbar-toggle:hover, .uk-navbar-toggle:focus, .uk-navbar-toggle.uk-open {
+    color: #f6f5f5;
+    outline: none;
+    text-decoration: none;
+}
+.uk-offcanvas-bar{
+    background: #fff;
+    color: #757575;
+}
+.uk-offcanvas-bar .uk-nav-default > li.uk-active > a {
+    color: #757575;
+}
+.uk-light .uk-nav-default > li > a:hover, .uk-section-primary:not(.uk-preserve-color) .uk-nav-default > li > a:hover, .uk-section-secondary:not(.uk-preserve-color) .uk-nav-default > li > a:hover, .uk-tile-primary:not(.uk-preserve-color) .uk-nav-default > li > a:hover, .uk-tile-secondary:not(.uk-preserve-color) .uk-nav-default > li > a:hover, .uk-card-primary.uk-card-body .uk-nav-default > li > a:hover, .uk-card-primary > :not([class*="uk-card-media"]) .uk-nav-default > li > a:hover, .uk-card-secondary.uk-card-body .uk-nav-default > li > a:hover, .uk-card-secondary > :not([class*="uk-card-media"]) .uk-nav-default > li > a:hover, .uk-overlay-primary .uk-nav-default > li > a:hover, .uk-offcanvas-bar .uk-nav-default > li > a:hover, .uk-light .uk-nav-default > li > a:focus, .uk-section-primary:not(.uk-preserve-color) .uk-nav-default > li > a:focus, .uk-section-secondary:not(.uk-preserve-color) .uk-nav-default > li > a:focus, .uk-tile-primary:not(.uk-preserve-color) .uk-nav-default > li > a:focus, .uk-tile-secondary:not(.uk-preserve-color) .uk-nav-default > li > a:focus, .uk-card-primary.uk-card-body .uk-nav-default > li > a:focus, .uk-card-primary > :not([class*="uk-card-media"]) .uk-nav-default > li > a:focus, .uk-card-secondary.uk-card-body .uk-nav-default > li > a:focus, .uk-card-secondary > :not([class*="uk-card-media"]) .uk-nav-default > li > a:focus, .uk-overlay-primary .uk-nav-default > li > a:focus, .uk-offcanvas-bar .uk-nav-default > li > a:focus {
+    color: #4f4f4f;
+}
+.uk-light .uk-nav-default > li > a, .uk-section-primary:not(.uk-preserve-color) .uk-nav-default > li > a, .uk-section-secondary:not(.uk-preserve-color) .uk-nav-default > li > a, .uk-tile-primary:not(.uk-preserve-color) .uk-nav-default > li > a, .uk-tile-secondary:not(.uk-preserve-color) .uk-nav-default > li > a, .uk-card-primary.uk-card-body .uk-nav-default > li > a, .uk-card-primary > :not([class*="uk-card-media"]) .uk-nav-default > li > a, .uk-card-secondary.uk-card-body .uk-nav-default > li > a, .uk-card-secondary > :not([class*="uk-card-media"]) .uk-nav-default > li > a, .uk-overlay-primary .uk-nav-default > li > a, .uk-offcanvas-bar .uk-nav-default > li > a {
+    color: #757575;
+}
+.uk-light .uk-nav-default .uk-nav-header, .uk-section-primary:not(.uk-preserve-color) .uk-nav-default .uk-nav-header, .uk-section-secondary:not(.uk-preserve-color) .uk-nav-default .uk-nav-header, .uk-tile-primary:not(.uk-preserve-color) .uk-nav-default .uk-nav-header, .uk-tile-secondary:not(.uk-preserve-color) .uk-nav-default .uk-nav-header, .uk-card-primary.uk-card-body .uk-nav-default .uk-nav-header, .uk-card-primary > :not([class*="uk-card-media"]) .uk-nav-default .uk-nav-header, .uk-card-secondary.uk-card-body .uk-nav-default .uk-nav-header, .uk-card-secondary > :not([class*="uk-card-media"]) .uk-nav-default .uk-nav-header, .uk-overlay-primary .uk-nav-default .uk-nav-header, .uk-offcanvas-bar .uk-nav-default .uk-nav-header {
+    color: #757575;
+}
+.uk-light .uk-nav-default .uk-nav-sub a:hover, .uk-section-primary:not(.uk-preserve-color) .uk-nav-default .uk-nav-sub a:hover, .uk-section-secondary:not(.uk-preserve-color) .uk-nav-default .uk-nav-sub a:hover, .uk-tile-primary:not(.uk-preserve-color) .uk-nav-default .uk-nav-sub a:hover, .uk-tile-secondary:not(.uk-preserve-color) .uk-nav-default .uk-nav-sub a:hover, .uk-card-primary.uk-card-body .uk-nav-default .uk-nav-sub a:hover, .uk-card-primary > :not([class*="uk-card-media"]) .uk-nav-default .uk-nav-sub a:hover, .uk-card-secondary.uk-card-body .uk-nav-default .uk-nav-sub a:hover, .uk-card-secondary > :not([class*="uk-card-media"]) .uk-nav-default .uk-nav-sub a:hover, .uk-overlay-primary .uk-nav-default .uk-nav-sub a:hover, .uk-offcanvas-bar .uk-nav-default .uk-nav-sub a:hover, .uk-light .uk-nav-default .uk-nav-sub a:focus, .uk-section-primary:not(.uk-preserve-color) .uk-nav-default .uk-nav-sub a:focus, .uk-section-secondary:not(.uk-preserve-color) .uk-nav-default .uk-nav-sub a:focus, .uk-tile-primary:not(.uk-preserve-color) .uk-nav-default .uk-nav-sub a:focus, .uk-tile-secondary:not(.uk-preserve-color) .uk-nav-default .uk-nav-sub a:focus, .uk-card-primary.uk-card-body .uk-nav-default .uk-nav-sub a:focus, .uk-card-primary > :not([class*="uk-card-media"]) .uk-nav-default .uk-nav-sub a:focus, .uk-card-secondary.uk-card-body .uk-nav-default .uk-nav-sub a:focus, .uk-card-secondary > :not([class*="uk-card-media"]) .uk-nav-default .uk-nav-sub a:focus, .uk-overlay-primary .uk-nav-default .uk-nav-sub a:focus, .uk-offcanvas-bar .uk-nav-default .uk-nav-sub a:focus {
+    color: #4f4f4f;
+}
+.uk-offcanvas-bar .uk-nav-default .uk-nav-sub a {
+    color: #757575;
+}
+.uk-navbar-nav > li:hover > a, .uk-navbar-nav > li > a:focus, .uk-navbar-nav > li > a.uk-open {
+    color: #fff;
+    outline: none;
+}
+.uk-navbar-nav > li > a {
+    position: relative;
+    font-size: 13px;
+}
+.uk-navbar-nav > li > a::before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 15px;
+    right: calc(102% - 15px);
+    bottom: 20px;
+    height: 1px;
+    background-color: currentColor;
+    transition: .3s ease-in-out;
+    transition-property: all;
+    transition-property: right;
+}
+.uk-navbar-nav > li > a:hover::before {
+    right: 15px;
+}
+.uk-offcanvas-overlay::before {
+    background: rgba(0, 0, 0, 0.3);
+}
+
+#nav-menu{
+    overflow: auto;
+    height: 100%;
+}
+.uk-nav-header {
+    padding: 8px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+.uk-light .uk-text-meta, .uk-section-primary:not(.uk-preserve-color) .uk-text-meta, .uk-section-secondary:not(.uk-preserve-color) .uk-text-meta, .uk-tile-primary:not(.uk-preserve-color) .uk-text-meta, .uk-tile-secondary:not(.uk-preserve-color) .uk-text-meta, .uk-card-primary.uk-card-body .uk-text-meta, .uk-card-primary > :not([class*="uk-card-media"]) .uk-text-meta, .uk-card-secondary.uk-card-body .uk-text-meta, .uk-card-secondary > :not([class*="uk-card-media"]) .uk-text-meta, .uk-overlay-primary .uk-text-meta, .uk-offcanvas-bar .uk-text-meta {
+    color: #999;
+}
+#slider{
+    background-image: url("../../public/storage/images/1.jpg");
+    background-size: cover;
+    background-position: bottom;
+}
+.uk-slideshow-items{
+    background-image: url("../../public/storage/images/dott.png");
+    background-repeat: repeat;
+    background-size: auto;
+}
+#slider h2{
+
+}
+#slider p{
+
+}
+.wthree_head {
+    position: relative;
+    font-weight: 600;
+    color: #212121;
+    text-align: center;
+    padding-bottom: .8em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: .5em;
+}
+.wthree_head::before {
+    width: 11%;
+    bottom: 8%;
+    left: 44.5%;
+}
+.wthree_head::after {
+    width: 18%;
+    right: 41%;
+    bottom: 0%;
+}
+.wthree_head::before, .wthree_head::after {
+    position: absolute;
+    background: #fb5710;
+    height: 2px;
+    content: '';
+}
+.uk-h4{
+    font-size: 1.1rem;
+    line-height: 1.4;
+    color: #999;
+}
+.uk-nav-sub a{
+    text-transform: none;
+}
+.uk-overlay-primary {
+    background: rgba(34, 34, 34, 0.4);
+}
+.uk-electric h3{
+    color: #fb5710;
+}
+.footer{
+    background: #757575;
+}
+.copy_right_social{
+    background: #000;
+    padding: 20px 0;
+}
+ol, ul, dl{
+    margin: 0;
+}
+.social_icons{
+    display: flex;
+    justify-content: center;
+
+}
+ul.uk-nav-sub {
+    padding: 5px 0 5px 5px;
+}
+.social_icons a{
+    color: #fff;
+    text-decoration: none;
+
+}
+.copy_right_social p{
+    color: #fff;
+}
+.border-social{
+    border-radius: 50%;
+    border: 2px solid #fff;
+    padding: 3.5px 8px 8px 8px;
+    margin: 0 10px;
+}
+.whatsapp{
+    color: #00e676;
+}
+.border-social-twitter{
+    color: #fff;
+    background: #00e676;
+}
+.border-social-twitter:hover{
+    color: #1da1f2;
+    background: #fff;
+}
+.border-social-twitter:hover a{
+    color: #00e676;
+}
+.facebook{
+    color: #fff;
+}
+.facebook:hover{
+    color: #3b5998;
+}
+.border-social-facebook{
+    color: #fff;
+    background: #3b5998;
+}
+.border-social-facebook:hover{
+    color: #3b5998;
+    background: #fff;
+}
+.border-social-facebook:hover a{
+    color: #3b5998;
+}
+.receiver{
+    color:#fff;
+}
+.receiver:hover{
+    color: #fb5710;
+}
+.border-social-instagram{
+    background: #f09433;
+    background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+    background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+}
+.border-social-instagram:hover{
+    background: #fff;
+}
+.border-social-instagram:hover a{
+    color: #f09433;
+}
+.border-social-receiver{
+    background: #fb5710;
+}
+.border-social-receiver:hover{
+    background: #fff;
+}
+.border-social-receiver:hover a{
+    color: #fb5710;
+}
+.footer{
+    background: #212121;
+    padding: 2em 0;
+}
+.footer h2 {
+    color: #fff;
+}
+.wthree_head {
+    position: relative;
+    font-size: 2em;
+    font-weight: 600;
+    text-align: center;
+    padding-bottom: .8em;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    margin-bottom: .5em;
+}
+.wthree_head::before, .wthree_head::after {
+    position: absolute;
+    background: #fb5710;
+    height: 2px;
+    content: '';
+}
+.wthree_head::before {
+    width: 11%;
+    bottom: 8%;
+    left: 44.5%;
+}
+.wthree_head::after {
+    width: 18%;
+    right: 41%;
+    bottom: 0%;
+}
+.agileits_w3layouts_para {
+    text-align: center;
+    color: #777;
+    line-height: 2em;
+}
+.footer input[type="text"], .footer input[type="phone"] {
+    outline: none;
+    color: #fff;
+    padding: 10px;
+    font-size: 1.5em;
+    background: none;
+    border: none;
+    border-bottom-color: currentcolor;
+    border-bottom-style: none;
+    border-bottom-width: medium;
+    border-bottom: 1px solid #999;
+    width: 100%;
+}
+#submitForm {
+    outline: none;
+    color: #fff;
+    padding: 10px;
+    font-size: 1.5em;
+    background: #fb5710;
+    border: none;
+    text-transform: uppercase;
+    width: 100%;
+}
+.uk-alert-success > p{
+    cursor: pointer;
+}
+.footer input[type="submit"]:hover {
+    background: #8181a7;
+}
+.news-w3l {
+    margin-top: 4em;
+}
+.w3agile_footer_grid h3 {
+    font-size: 1.5em;
+    color: #ffffff;
+    margin: 0 0 1.5em;
+}
+.agile_footer_copy {
+    padding: 3em 0 0;
+}
+.w3agile_footer_grid ul li {
+    list-style-type: none;
+    color: #bfbfbf;
+}
+.w3agile_footer_grid p {
+    color: #bfbfbf;
+    margin: 0;
+}
+.w3agile_footer_grid ul li a {
+    color: #bfbfbf;
+    text-decoration: none;
+}
+.w3agile_footer_grid ul li a {
+    color: #bfbfbf;
+    text-decoration: none;
+}
+.w3agile_footer_grid ul li a:hover {
+    color: #fb5710;
+}
+.flex{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.stats {
+    background: url(/images/background2.jpg) no-repeat 0px 0px;
+    background-attachment: scroll;
+    background-size: auto;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -ms-background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    padding: 5.5em 0;
+}
+.uk-offcanvas-close{
+    position: static;
+    color: #4f4f4f;
+    padding: 0;
+}
+.spin-absolut{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.uk-inline{
+    margin: auto;
+}
+
+/* Phone landscape and bigger */
+@media (min-width: $breakpoint-small) {
+
+    .stats{
+        padding: 5em 0;
+    }
+
+}
